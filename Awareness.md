@@ -111,7 +111,7 @@ If you've read this far, you should now have a deeper understanding of awareness
 Initially, I stated:
 - *I'm not omniscient, my eyes are cloudy.*
 
-I welcome any feedback through direct digital messages or any other form of digital comments on this document. I am open to editing the text, particularly if your insights are high-impact and cost-effective. So many people have contributed to my awareness in general, and as such this text, yet my eyes are still cloudy—show me the light! 👉👈
+I welcome any feedback through direct digital messages or any other forms of digital comments on this document. I am open to editing the text, particularly if your insights are high-impact and cost-effective. So many people have contributed to my awareness in general, and as such this text, yet my eyes are still cloudy—show me the light! 👉👈
 
 ---
 
