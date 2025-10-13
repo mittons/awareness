@@ -80,19 +80,11 @@ The problem of informed decision-making, along with its solution.
   - For instance, imagine a caveman witnessing a doctor perform surgery for the first time. If he rushes to aid the patient, misunderstands the situation, and tackles the doctor, the patient could suffer fatal consequences.
 
 ### Exploitative Behavior
-- **Opportunistic Overreach:** I have witnessed situations where individuals, recognizing a perceived opportunity, hastily push aside the experts to claim credit or derive benefits. This often results in substandard repairs that might pose further risks. Some individuals even turn such behaviour into a career to profit. Opportunistic overreach can range anywhere between uninformed interventions and informed actions.
-- **Manipulating the Vulnerable:** Others exploitatively find individuals who, due to lack of experience or vulnerability, are inclined or easily coerced into working on the roof to solve problems or fulfill unmet needs. These exploiters let them do all the work and then take the credit, gaining value or popularity among their friends or peers without providing due recognition or compensation.
-- **Undermining the Expert:** There are cases where these exploitative individuals actively work to displace experts they exploit through invalidation, intimidation, or threats, sometimes even "poisoning the well" to advance their own status at the expense of the true professionals. 
-I have personally both observed and experienced any behaviour mentioned in these chapters and, as a result, take careful steps to keep my statements, both public and private, depersonalized against others. This approach is a protective measure and also a commitment I uphold to maintain neutrality and objectivity in both my personal and professional environments. Generally, I also always try to depersonalize personal information I discuss in open settings unless I get explicit consent. However, should someone exploit me without my consent, I reserve the right to address the situation directly. Fortunately, for me, I am currently not aware of any such unresolved instances, which allows me to state this without experiencing any personal risk.
+- Moved this part of the discussion to an [alternate version in version control](https://github.com/mittons/awareness/blob/v1.0.0/Awareness.md#exploitative-behavior) to give more emphasis to more contemporary matters.
 
 ### Reactions When Addressing Issues for Resolution
 
-- **Understanding Emotional Climates:** As we have explored various challenges in addressing issues and their potential pathways of resolution, it's crucial to also understand the emotional and psychological reactions that often accompany these efforts. These reactions can cloud our judgment and complicate resolutions. Shedding light on these barriers, recognizing them, and addressing them with consistent dedication, unwavering resilience, and deep consideration of others' feelings is essential for navigating toward effective solutions.
-
-  - **Personal Accountability:** Individuals may respond negatively if they feel personally implicated, often leading to denial or defensive behaviors.
-  - **Emotional Responses:** Highlighting issues can trigger personal pain or distress, sometimes resulting in avoidance or invalidation.
-  - **Dismissal and Denial:** Issues with low awareness may be ignored due to disbelief, stigma, or a lack of perceived authority in the messenger.
-  - **Rationalizations:** Some might acknowledge the issue but find excuses for inaction; others may rationalize it as a weakness, even going so far as to use it as a stepping stone for their own emotional or personal empowerment.
+- Moved this part of the discussion to an [alternate version in version control](https://github.com/mittons/awareness/blob/v1.0.0/Awareness.md#reactions-when-addressing-issues-for-resolution) to give more emphasis to more contemporary matters.
 
 
 
@@ -100,7 +92,7 @@ I have personally both observed and experienced any behaviour mentioned in these
 
 - **Positive Engagement**: I actively support those I trust and care deeply for, as well as marginalized groups that remain largely invisible. My service is offered discreetly, without the desire for recognition or public acknowledgment. This commitment stems from a strong personal connection to their struggles and a willingness to serve quietly.
 - **Consensual Service**: My engagement is characterized by a deep sense of submission to those who earn my trust and respect. I offer my service as a conscious choice, embracing the opportunity to support and enhance the lives of others without seeking visibility. This form of service is not about gaining acknowledgment but about fulfilling a need where it is most deeply felt.
-- **Navigating Complex Dynamics**: In managing complex dynamics, I am neither vulnerable nor inexperienced. I choose to contribute silently where I can be most effective, working without credit to benefit those who truly deserve it. This approach is a deliberate, informed decision, allowing me to provide substantial support behind the scenes. For the right individuals or groups, I am fully prepared to extend my service, doing so with the full awareness that my contributions may never be publicly recognized.
+- **Navigating Complex Dynamics**: In managing complex dynamics, I am neither vulnerable nor inexperienced. I choose to contribute silently where I can be most effective, working without credit to benefit those who truly deserve it. This approach is a deliberate, informed decision, allowing me to provide substantial support behind the scenes. For the right individuals or groups, I am fully prepared to extend my service, doing so with the full awareness that my contributions may never be publicly recognized. However, that said, I maintain a transparent, version-controlled record of my credentials—such as skills, knowledge, education, and personal development—so others can verify I am not “[in the dark](#the-physical-roof)” on, nor have a “[cloudy view](#the-conceptual-roof)” of, any [problems I address](#addressing-different-states-of-the-roof).
 
 ---
 
